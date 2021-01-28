@@ -14,7 +14,7 @@ export default function LoadingWidget() {
     <LoadingDiv>
       <img
         alt="Loading"
-        src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Chunk_colormap.gif/revision/latest?cb=20200729224915"
+        src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Chunk_colormap.gif"
       />
 
     </LoadingDiv>

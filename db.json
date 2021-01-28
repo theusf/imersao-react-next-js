@@ -4,25 +4,28 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media.tenor.com/images/f9fea66de9da6651ea4d0011b6743454/tenor.gif",
+        "title": "Com quantos blocos se faz um portal para o nether?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "11",
+          "12",
+          "14",
+          "9"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.tenor.com/images/a3c0453e7fe515340a70fbdf80033138/tenor.gif",
+        "title": "Em qual bioma você pode encontrar um papagaio?",
+        "description": "Eles dançam ao tocar um disco na jukebox!!",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Pântano ",
+           "Deserto",
+           "Savana",
+           "Selva"
+
         ]
       }
     ],

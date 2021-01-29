@@ -111,8 +111,6 @@ function QuestionWidget({
           <Button type="submit" disabled={selectedAlternative === undefined}>
             Confirmar
           </Button>
-          {isQuestionSubmited && isCorrect && <p>Você acertou!</p>}
-          {isQuestionSubmited && !isCorrect && <p>Você errou!</p>}
         </AlternativesForm>
       </Widget.Content>
     </Widget>

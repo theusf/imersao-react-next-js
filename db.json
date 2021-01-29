@@ -19,13 +19,12 @@
         "image": "https://media.tenor.com/images/a3c0453e7fe515340a70fbdf80033138/tenor.gif",
         "title": "Em qual bioma você pode encontrar um papagaio?",
         "description": "Eles dançam ao tocar um disco na jukebox!!",
-        "answer": 0,
+        "answer": 3,
         "alternatives": [
            "Pântano ",
            "Deserto",
            "Savana",
            "Selva"
-
         ]
       }
     ],

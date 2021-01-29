@@ -23,6 +23,7 @@ export default function Home() {
             <h1>{db.title}</h1>
           </Widget.Header>
           <Widget.Content>
+            <p>{db.description}</p>
             <form onSubmit={(event) => {
               event.preventDefault();
               router.push(`/quiz?name=${name}`);
@@ -46,7 +47,6 @@ export default function Home() {
           <Widget.Content>
             <h1>Quizes da Galera</h1>
 
-            <p>lorem ipsum dolor sit amet...</p>
           </Widget.Content>
         </Widget>
         <Footer />
